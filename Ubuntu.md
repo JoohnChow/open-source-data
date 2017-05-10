@@ -17,7 +17,7 @@
   * wps office:wps for word;wpp for ppt;et for excel
   
 ## 常见问题解决
-  * [无法复制文件夹因为您没有在目标位置创建它的权限](https://zhidao.baidu.com/question/337020685.html)
+  * [无法复制文件夹因为您没有在目标位置创建它的权限](https://zhidao.baidu.com/question/337020685.html) <br>
     打开终端：alt+f2，输入gnome-terminal,回车，在弹出的界面操作：<br>
     1.输入sudo nautilus回车，输入你的用户的密码，这样就打开了一个超级用户权限的资源管理器，然后你直接创建你的目录就行了。<br>
     2.用命令创建你的目录，先cd到你要创建目录的地址，比如cd /opt，然后sudo mkdir 目录名,按提示输入用户密码即可。<br>
