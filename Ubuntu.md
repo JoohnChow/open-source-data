@@ -1,4 +1,7 @@
 ## 一些神奇的网站
+ * **多读多抄；知而好问，然后能才；学习是动力，是充满思想的劳动；
+   读书越多，越感到附中空虚；学到很多东西的诀窍，就是一下子不要学很多**
+   
   * [学习网站合集](http://noexcuselist.com/ "The best place on the web to learn anything,free") 
   * [同时搜索180个大网站](http://lackar.com/aa/)
   * [白噪音网站](http://www.rainymood.com/)
