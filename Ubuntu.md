@@ -15,6 +15,7 @@
   * 打开终端更换主题：unity-tweak-tool
   * 截图软件:shutter
   * wps office:wps for word;wpp for ppt;et for excel
+  * 谷歌浏览器稳定版:google-chrome-stable
   
 ## 常见问题解决
   * [无法复制文件夹因为您没有在目标位置创建它的权限](https://zhidao.baidu.com/question/337020685.html) <br>
