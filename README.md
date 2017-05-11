@@ -6,6 +6,9 @@ data or source that are open to everyone, thanks to them!
   
   these days i'm learning " reptile program "(爬虫), so i need the source to collect data <br>
   
+## 学习linux的正确动力：
+  Linux系统是具有类似Unix的程序界面与操作方法且继承了其稳定性的优秀软件产品，而对于用户来讲，开源精神仅仅是一种锦上添花的东西。<br>
+  
 ## some data sources as follows: <br>
   
   * [open data](https://github.com/showcases/open-data) <br>
