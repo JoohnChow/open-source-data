@@ -10,6 +10,7 @@
   * [ubuntu桌面培训](http://forum.ubuntu.org.cn/viewtopic.php?f=1&t=267605 "两天可以学完")
   * [靠谱的ubuntu教材](https://www.zhihu.com/question/19816319)
   * [鸟哥的 Linux 私房菜-基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php "鸟哥经典")
+  * [好书|linux就该这么学](http://www.linuxprobe.com/chapter-01.html)
   
 ## 记录ubuntu系统时常用的一些操作命令
   * [man指令](http://man.linuxde.net/man)
