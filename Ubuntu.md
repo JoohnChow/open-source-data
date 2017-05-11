@@ -1,7 +1,7 @@
 ## 一些神奇的网站
   * [学习网站合集](http://noexcuselist.com/ "The best place on the web to learn anything,free") 
   * [同时搜索180个大网站](http://lackar.com/aa/)
-  * [白噪音网站](http://www.rainymood.com/)http://www.rainymood.com/
+  * [白噪音网站](http://www.rainymood.com/)
   * [花蜜|密码管理工具](https://flowerpassword.com/app/web)
 
 
